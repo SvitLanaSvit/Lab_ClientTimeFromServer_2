@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClient", "TimeClient\TimeClient.csproj", "{5E7EACDC-8013-46F5-8DA1-6AA749E9A08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerStartTime", "ServerStartTime\ServerStartTime.csproj", "{ACA7C8F8-9025-4874-B655-DFB21FE67FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E7EACDC-8013-46F5-8DA1-6AA749E9A08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7EACDC-8013-46F5-8DA1-6AA749E9A08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7EACDC-8013-46F5-8DA1-6AA749E9A08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7EACDC-8013-46F5-8DA1-6AA749E9A08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA7C8F8-9025-4874-B655-DFB21FE67FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA7C8F8-9025-4874-B655-DFB21FE67FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA7C8F8-9025-4874-B655-DFB21FE67FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA7C8F8-9025-4874-B655-DFB21FE67FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F1A980-54D2-42A4-A2A8-59D000A69FF5}
+	EndGlobalSection
+EndGlobal
